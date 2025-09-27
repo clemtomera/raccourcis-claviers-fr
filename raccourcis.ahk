@@ -32,6 +32,7 @@ try {
 !'::Send("{U+2019}")             ; Apostrophe typographique
 !;::Send("{U+00B7}")             ; Point médian
 +!;::Send("{U+2026}")            ; …
+!à::Send("{U+00C0}")             ; À
 !ç::Send("{U+00C7}")             ; Ç
 +!e::Send("{U+00C9}")            ; É
 !a::Send("{U+00E6}")             ; æ
