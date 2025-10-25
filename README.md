@@ -13,9 +13,10 @@ Ce guide explique comment installer **AutoHotkey**, ajouter un script personnali
 | `Alt + '`               | ’               | Apostrophe typographique (U+2019), préférable à `'` droit |
 | `Alt + ;`               | ·               | Point médian (U+00B7), utilisé en écriture inclusive (`étudiant·e·s`) |
 | `Shift + Alt + ;`       | …               | Points de suspension (U+2026) |
+| `Alt + é`               | É               | É accent aigu majuscule (U+00C9) |
+| `Alt + è`               | È               | È accent grave majuscule (U+00C8) |
 | `Alt + à`               | À               | A accent grave majuscule (U+00C0) |
 | `Alt + ç`               | Ç               | C cédille majuscule (U+00C7) |
-| `Shift + Alt + E`       | É               | É accent aigu majuscule (U+00C9) |
 | `Alt + a`               | æ               | Ligature minuscule, ex. `Lætitia` |
 | `Shift + Alt + a`       | Æ               | Ligature majuscule, ex. `Æschylus` |
 | `Alt + o`               | œ               | Ligature minuscule, obligatoire en français (`cœur`, `œuvre`) |
